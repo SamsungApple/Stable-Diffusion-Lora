@@ -16,5 +16,6 @@ kohya-ss님과 글을 작성해 주신 루리웹 회원분께 감사드립니다
 1. Anaconda Docker Image 다운로드 및 컨테이너 생성 진행
 2. 생성한 컨테이너 접속
 3. Python 3.10 버전의 Anaconda 가상환경 세팅
-4. ``` git clone https://github.com/kohya-ss/sd-scripts.git
+4. 
+  ``` git clone https://github.com/kohya-ss/sd-scripts.git
    cd sd-scripts ```
