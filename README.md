@@ -46,8 +46,7 @@ Base 코드는 https://github.com/kohya-ss/sd-scripts에서 시작됩니다.
    ```
    
 ## Credits
-[khoya-ss's repo](https://github.com/kohya-ss/sd-scripts)와 [루리웹 글](https://bbs.ruliweb.com/community/board/300143/read/59967569)
-Repository를 작성해주신 khoya-ss님과 루리웹 회원분께 감사드립니다.
+[khoya-ss's repo](https://github.com/kohya-ss/sd-scripts)와 [루리웹 글](https://bbs.ruliweb.com/community/board/300143/read/59967569)을 참고 및 활용하였습니다. Repository를 작성해주신 khoya-ss님과 루리웹 회원분께 감사드립니다.
 공부하는데 큰 도움을 받았습니다.
 
 ## 주의(?)
