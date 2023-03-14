@@ -30,7 +30,13 @@ Base 코드는 https://github.com/kohya-ss/sd-scripts에서 시작됩니다.
    ```
    pip install xformers==0.0.17.dev473
    ```
-7. accelerate config 설정
+7. 설치 및 동작과정에서 opencv-python 라이브러리 관련 오류가 있을 수 있음
+   아래의 코드를 실행
+   ```
+   pip uninstall opencv-python
+   pip install opencv-contrib-python-headless==4.7.0.72
+   ```
+8. accelerate config 설정
    ```
    accelerate config
    ```
