@@ -17,6 +17,9 @@ Base 코드는 https://github.com/kohya-ss/sd-scripts에서 시작됩니다.
 1. Anaconda Docker Image 다운로드 및 컨테이너 생성 진행
 2. 생성한 컨테이너 접속
 3. Python 3.10 버전의 Anaconda 가상환경 세팅
+   ```
+   conda create -n (아나콘다 가상환경 이름) python=3.10
+   ```
 4. ``` 
    git clone https://github.com/kohya-ss/sd-scripts.git
    cd sd-scripts 
