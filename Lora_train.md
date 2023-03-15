@@ -50,3 +50,7 @@ accelerate launch --num_cpu_threads_per_process 1 train_network.py
 ```
 
 #### Lora 모델이 저장되는 것을 확인할 수 있다.
+
+---
+### 추가 내용들
+--mixed_precision="fp16"이 아닌 --mixed_precision="no"로 설정하면 학습 시간이 배 이상으로 늘어난다.(2시간 40분 -> 8시간 X분으로 늘어나는 것 확인) 
